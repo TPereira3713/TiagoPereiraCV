@@ -22,13 +22,27 @@ section {
 
 ul {
     list-style-type: none;
-    padding: 0;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    font-size: 15px;
 }
 
 li {
     margin-bottom: 5px;
+    padding: 5px;
 }
 
-.iTitle{
+.infoTitle{
     font-weight: bold;
+    font-size: 15px;
+}
+
+.miniTitle {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.certTitle {
+    font-size: 20px;
 }
